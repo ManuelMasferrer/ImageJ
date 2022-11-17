@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<ns2:softwareSystem xmlns:ns2="http://www.hello2morrow.com/sonargraph/core" id="cb9b20d59c3162788a531b739ed54189" version="12.4.2.770">
+	<description></description>
+	<module xmlns:ns4="http://www.hello2morrow.com/sonargraph/languageprovider/java" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns4:xsdJavaModule" name="ImageJ" id="3eda35172d9676dd12240e8630e216dc" language="Java">
+		<description></description>
+		<rootPath xsi:type="ns4:xsdSourceRootPath" name="./src"></rootPath>
+		<rootPath name="./target/classes"></rootPath>
+	</module>
+</ns2:softwareSystem>
